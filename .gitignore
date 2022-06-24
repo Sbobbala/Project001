@@ -1,3 +1,4 @@
 sravz.info
 *.class
 *.log
+logs/
